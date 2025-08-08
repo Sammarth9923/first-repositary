@@ -1,3 +1,3 @@
 # first-repositary
-Author : samartth wadinkar
+Author : samartth wadinkar<br>
 my first github repositary
